@@ -1,69 +1,56 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. What is Arweave's primary focus?
-
 - Censorship resistance
 - Global replication
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2. Which file types are a good fit for Arweave?
-
 - Music and videos
 - Images and text
 - single-page applications
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 3. What storage location does Arweave use for files?
-
 - The transaction object can contain files smaller than 12MiB
 - Files bigger than 12MiB have a separate storage location
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 4. How does Arweave's consensus algorithm work?
-
 - By requiring miner nodes to prove access to random chunks of uploaded data
 - By incentivizing miner nodes to share data
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 5. What is the responsibility of gateway nodes?
-
 - Data access
 - Data encoding
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 6. What are NOT parts of the SPoRA consensus algorithm?
-
 - Locking sectors of a block storage
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 7. Can you delete data from the Arweave network?
-
 - No, you can only suggest the removal with a do-not-store request.
 - You can’t enforce removal
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 8. Which mechanisms enable the payments for Arweave's permanent storage?
-
 - It has a storage endowment to save tokens for later
 - Its token economics are based on future storage cost estimates
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 9. Which types of transactions does Arweave support?
-
 - L1 transaction
 - Bundled transaction
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 10. What are the properties of L1 transactions?
-
 - They are relatively slow
 - They can transfer AR token
 - They can have custom tag
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 11. What are the properties of bundled transactions?
-
 - They are relatively fast
 - They can be paid with fiat currency
 - They can have custom tag
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 12. What are Arweave’s CONS compared to cloud storage?
-
 - Expensive storage
 - Volatile pricing
 - No temporary storage
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 13. What are Arweave’s CONS compared to popular blockchain networks?
-
 - Slow L1 transactions
 - No cheap temporary storage option
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
